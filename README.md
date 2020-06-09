@@ -1,5 +1,8 @@
 # Bluetooth-Speaker (6W Music player)
-## Componets 
+## Componets
+
+-![TEST RESULT](https://i.pinimg.com/originals/b2/68/b9/b268b992d88a5368b60e4d522cae7e73.jpg)
+
 1. Bluetooth Panel
 2. Amplifier
 3. Charging module
